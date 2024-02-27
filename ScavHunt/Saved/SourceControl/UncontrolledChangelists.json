@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/nankang2/VRchScavHunt/ScavHunt/Content/VRTemplate/Blueprints/WidgetMap.uasset",
+				"C:/Users/nankang2/VRchScavHunt/ScavHunt/Content/VRTemplate/Blueprints/Map.uasset",
+				"C:/Users/nankang2/VRchScavHunt/ScavHunt/Content/VRTemplate/Blueprints/VRPawn.uasset",
 				"C:/Users/slp3/Documents/Unreal Projects/ScavHunt/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/slp3/Documents/Unreal Projects/ScavHunt/Content/VRTemplate/Maps/VRTemplateMap.umap",
 				"C:/Users/slp3/Documents/Unreal Projects/ScavHunt/Content/Environment/CAVE_MODEL_for_lumion/Materials/Default.uasset",
