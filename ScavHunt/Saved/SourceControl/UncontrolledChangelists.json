@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/zpk2/UE5/VRCHAE_DEMO_SMALL/VRchScavHunt/ScavHunt/Content/Environment/CAVE_MODEL_for_lumion/Materials/Material1.uasset",
+				"C:/Users/zpk2/UE5/VRCHAE_DEMO_SMALL/VRchScavHunt/ScavHunt/Content/Environment/CAVE_MODEL_for_lumion/Geometries/cave_1_dwg.uasset",
+				"C:/Users/zpk2/UE5/VRCHAE_DEMO_SMALL/VRchScavHunt/ScavHunt/Content/VRTemplate/Maps/VRTemplateMap.umap",
 				"C:/Users/nankang2/VRchScavHunt/ScavHunt/Content/VRTemplate/Blueprints/WidgetMap.uasset",
 				"C:/Users/nankang2/VRchScavHunt/ScavHunt/Content/VRTemplate/Blueprints/Map.uasset",
 				"C:/Users/nankang2/VRchScavHunt/ScavHunt/Content/VRTemplate/Blueprints/VRPawn.uasset",
