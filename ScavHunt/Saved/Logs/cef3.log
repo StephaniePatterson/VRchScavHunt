@@ -1,1 +1,7 @@
-[0223/152038.541:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0228/151326.371:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0228/151514.657:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0228/151514.657:ERROR:cache_util.cc(144)] Unable to move cache folder C:/Users/slp3/Documents/scav/VRchScavHunt/ScavHunt/Saved/webcache_4430\Cache to C:/Users/slp3/Documents/scav/VRchScavHunt/ScavHunt/Saved/webcache_4430\old_Cache_000
+[0228/151514.657:ERROR:disk_cache.cc(184)] Unable to create cache
+[0228/151522.692:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0228/151531.236:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0228/151714.084:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
